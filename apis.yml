@@ -25,7 +25,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 image: https://storage.googleapis.com/production-os-assets/assets/26d5b71a-cd89-4fbb-9fe4-6cd0296a1f56
